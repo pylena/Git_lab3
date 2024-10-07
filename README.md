@@ -8,7 +8,12 @@
 * semi-Strctured Data
 * Unstrctured Data
 
-| Column 1 | Column 2 | Column 3 |
+| Strctured Data | semi-Strctured Data | Unstrctured Data |
 |----------|----------|----------|
-| Data 1   | Data 2   | Data 3   |
-| Data 4   | Data 5   | Data 6   |
+| it is data that has been organised into a strict schema | it is data that dose not confirm to schema but has some structure   | it is data that has no scheme  |
+| e.g: tables  | e.g: xml   | e.g: photos   |
+
+print('DS Bootcamp')
+
+
+[Read More]'(https://en.wikipedia.org/wiki/Data_science)'
