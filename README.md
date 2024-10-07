@@ -8,8 +8,7 @@
 * semi-Strctured Data
 * Unstrctured Data
 
-| Strctured Data | semi-Strctured Data | Unstrctured Data|
-----------------------------------------------------------
-it is data that has been organized into a strict 
-schema. | it is data that dose not conform to a schema but
-has some structure | it is data that has no schema |
+| Column 1 | Column 2 | Column 3 |
+|----------|----------|----------|
+| Data 1   | Data 2   | Data 3   |
+| Data 4   | Data 5   | Data 6   |
